@@ -1,0 +1,41 @@
+.form {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+
+    border-radius: 5px;
+}
+
+.label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.input {
+    margin-bottom: 10px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+
+    width: 15rem !important;
+}
+
+.button {
+    background-color: #4CAF50;
+    color: #fff;
+
+    border-radius: 5px;
+    cursor: pointer;
+    text-transform: uppercase;
+
+    margin: 0 35rem 0 0 !important;
+    padding: 10px;
+
+    text-align: center !important;
+    text-decoration: none;
+}
+
+.budget {
+    margin-bottom: 20px;
+}
